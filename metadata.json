@@ -1,0 +1,5 @@
+{
+  "name": "Grafana Cloud Pricing Estimator",
+  "description": "A dynamic pricing calculator for Grafana Cloud Pro, featuring estimation tools for Kubernetes environments, log ingestion, and user costs based on official pricing models.",
+  "requestFramePermissions": []
+}
